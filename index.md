@@ -1,3 +1,10 @@
+---
+id: 05f3af4a-6679-4e76-a1f1-c0386b2fe005
+title: Index
+desc: ''
+updated: 1608785554135
+created: 1608785554135
+---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/guidmaster/knowledge/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.

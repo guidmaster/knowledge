@@ -1,0 +1,12 @@
+-
+    id: g
+    title: garden
+    desc: ""
+    parent: root
+    namespace: true
+    children: 
+        - composting
+        - grass
+- id: composting
+- id: grass
+
